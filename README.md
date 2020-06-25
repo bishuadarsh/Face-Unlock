@@ -1,6 +1,13 @@
 ## Face-Unlock
 Face Unlock Feature - Unlock your device using Facial Recognition
 
+<h3> Libraries Used </h3>
+<ul>
+  <li>OpenCv</li>
+  <li>NumPy</li>
+  <li>os</li>
+</ul>
+
 <h1> About Project </h1>
 
 <h5> We will create our Training Data </h5>
