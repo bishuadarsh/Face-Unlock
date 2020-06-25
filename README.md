@@ -27,4 +27,4 @@ Face Unlock Feature - Unlock your device using Facial Recognition
  
  <h4> Here it is </h4>
  
- ![](Screenshot 2020-06-25 at 10.42.08 AM.png)
+![](faces/output.png)
